@@ -21,3 +21,5 @@
 ![SqlAlchemi](https://img.shields.io/badge/-SqlAlchemy-important?style=for-the-badge&logo=python)
 ![Asyncio](https://img.shields.io/badge/-asyncio-green?style=for-the-badge&logo=python)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-red?style=for-the-badge&logo=react)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximIglinRest&show_icons=true&hide=issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
