@@ -1,16 +1,24 @@
-### Hi there 👋
+# Maxim Iglin
+`Python backend developer`
 
-<!--
-**MaximIglinRest/MaximIglinRest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+## Hard skils
+![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/-Linux/Bash-grey?style=for-the-badge&logo=linux)
+![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript)
+![GIT](https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=git) 
+![Docker](https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker)
+![SQL](https://img.shields.io/badge/-SQL-9cf?style=for-the-badge&logo=postgresql)
+![Django](https://img.shields.io/badge/-Django-green?style=for-the-badge&logo=django)
+![DjangoRestFramework](https://img.shields.io/badge/-DjangoRestFramework-red?style=for-the-badge&logo=django)
+![Pytest](https://img.shields.io/badge/-Pytest-green?style=for-the-badge&logo=pytest)
+![FastApi](https://img.shields.io/badge/-FastApi-ff69b4?style=for-the-badge&logo=fastapi)
+![SqlAlchemi](https://img.shields.io/badge/-SqlAlchemy-important?style=for-the-badge&logo=python)
+![Pydantic](https://img.shields.io/badge/-Pydantic-green?style=for-the-badge&logo=python)
+![Asyncio](https://img.shields.io/badge/-asyncio-green?style=for-the-badge&logo=python)
+![ReactJs](https://img.shields.io/badge/-ReactJs-red?style=for-the-badge&logo=react)
