@@ -19,6 +19,5 @@
 ![Pytest](https://img.shields.io/badge/-Pytest-green?style=for-the-badge&logo=pytest)
 ![FastApi](https://img.shields.io/badge/-FastApi-ff69b4?style=for-the-badge&logo=fastapi)
 ![SqlAlchemi](https://img.shields.io/badge/-SqlAlchemy-important?style=for-the-badge&logo=python)
-![Pydantic](https://img.shields.io/badge/-Pydantic-green?style=for-the-badge&logo=python)
 ![Asyncio](https://img.shields.io/badge/-asyncio-green?style=for-the-badge&logo=python)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-red?style=for-the-badge&logo=react)
