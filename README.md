@@ -8,11 +8,11 @@
 
 
 ## Hard skils
-![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
-![Bash](https://img.shields.io/badge/-Linux/Bash-grey?style=for-the-badge&logo=linux)
-![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript)
-![GIT](https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=git) 
-![Docker](https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker)
+![Python](https://img.shields.io/badge/-Python-lightgrey?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/-Linux/Bash-lightgrey?style=for-the-badge&logo=linux)
+![JavaScript](https://img.shields.io/badge/-JavaScript-lightgrey?style=for-the-badge&logo=javascript)
+![GIT](https://img.shields.io/badge/-Git-lightgrey?style=for-the-badge&logo=git) 
+![Docker](https://img.shields.io/badge/-Docker-lightgrey?style=for-the-badge&logo=docker)
 ![SQL](https://img.shields.io/badge/-SQL-9cf?style=for-the-badge&logo=postgresql)
 ![Django](https://img.shields.io/badge/-Django-green?style=for-the-badge&logo=django)
 ![DjangoRestFramework](https://img.shields.io/badge/-DjangoRestFramework-red?style=for-the-badge&logo=django)
